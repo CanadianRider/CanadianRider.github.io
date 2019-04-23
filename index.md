@@ -6,4 +6,4 @@ Testing to see if this works
   * Item 2b
 
 
-###Contact Michael Smith: michael@canadian-rider.com
+Michael Smith: michael@canadian-rider.com
