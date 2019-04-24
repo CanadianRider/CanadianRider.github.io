@@ -6,6 +6,7 @@ Testing to see if this works
   * Item 2b
 
   Add a test line to commit
+  Add a second test line
 
 
 Michael Smith: michael@canadian-rider.com
