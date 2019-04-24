@@ -5,5 +5,7 @@ Testing to see if this works
   * Item 2a
   * Item 2b
 
+  Add a test line to commit
+
 
 Michael Smith: michael@canadian-rider.com
